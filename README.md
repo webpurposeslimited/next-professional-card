@@ -1,4 +1,12 @@
 # Professional Card Portfolio by WebPurposes
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N01H8FBW)
+![New Website Blue Mockup Instagram - Laptop](https://github.com/user-attachments/assets/247ff9ea-c8a0-4661-8529-0762a7763055)
+
+
+![{3C1800E4-60CB-48CA-A9D7-8D752006E2DB}](https://github.com/user-attachments/assets/82f62201-647a-4868-b213-c1c3066ccce2)
+
+
+[![Live Preview](https://img.shields.io/badge/Live%20Site-Vercel-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://next-professional-card.vercel.app/)
 
 "Welcome! I'm excited to share this professional card template with you. I hope this helps showcase your skills and experience effectively. Feel free to customize it to meet your needs and make it your own.
 
@@ -138,3 +146,6 @@ All commands are run from the project root:
 ## 👀 Want to learn more about Next.js?
 
 Check out the [Next.js Documentation](https://nextjs.org/docs) to learn more about features and API.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
